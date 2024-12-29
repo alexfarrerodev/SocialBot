@@ -29,7 +29,7 @@ If the terminal remains open without showing anything, don’t worry! This indic
 This project is open-source and licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it, but please ensure that you provide proper credit to the original author. Use this tool at your own risk.
 
 ## **Release**
-You can find the latest release and download the executable from the [official GitHub release page](https://github.com/alexfarrerodev/SocialBot/releases/tag/socialBot).
+You can find the latest release and download the [executable](https://github.com/alexfarrerodev/SocialBot/releases/download/socialBot/SocialBot-beta-1.0.0.zip) from the [official GitHub release page](https://github.com/alexfarrerodev/SocialBot/releases/tag/socialBot).
 
 ## **Credits**
 Please credit the original author when using or distributing this tool in any way. You can refer to the repository as the source of this tool.
